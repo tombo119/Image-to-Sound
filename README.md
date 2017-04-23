@@ -5,6 +5,7 @@ Thomas Dove: "The main idea of the project is seeing if it is possible to train 
 ## Installing Pyknon package
 ```
   pip install pyknon
+  pip install pillow
 ```
 
 ---
